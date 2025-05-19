@@ -1,0 +1,49 @@
+_id,id_unit_kerja,tahun_sotk,kode_unit_kerja,unit_kerja,nama_unit_kerja_lengkap,nama_unit_kerja_pendek,id_eselon,level_unit_kerja,nomor_unit_kerja,kode_unit_kerja_parent,aktif,caption_kepala_unit_kerja,id_jenis_jabatan
+1,1,2017,1,Sekretariat Daerah,Sekretariat Daerah,Setda,21,1,0,1,1,Sekretaris Daerah,1
+2,45,2017,2,Sekretariat DPRD,Sekretariat DPRD,Setwan DPRD,22,1,0,2,1,Sekretaris DPRD,1
+3,58,2017,3,Inspektorat,Inspektorat,Inspektorat,22,1,0,3,1,Inspektur Inspektorat,1
+4,67,2017,4,Dinas Pendidikan,Dinas Pendidikan,Dinas Pendidikan,22,1,,4,1,Kepala Dinas Pendidikan,1
+5,1371,2015,5,Dinas Kesehatan,Dinas Kesehatan,Dinas Kesehatan,22,1,,5,1,Kepala Dinas Kesehatan,1
+6,1465,2017,6,"Dinas Pekerjaan Umum, Perumahan dan Kawasan Permukiman","Dinas Pekerjaan Umum, Perumahan dan Kawasan Permukiman",DPUPKP,22,1,,6,1,"Kepala Dinas Pekerjaan Umum, Perumahan dan Kawasan Permukiman",1
+7,1501,2017,7,Dinas Pertanahan dan Tata Ruang,Dinas Pertanahan dan Tata Ruang,DPTR,22,1,,7,1,Kepala Dinas Pertanahan dan Tata Ruang,1
+8,1515,2015,8,Satuan Polisi Pamong Praja,Satuan Polisi Pamong Praja,SatpolPP,22,1,,8,1,Kepala Satuan Polisi Pamong Praja,1
+9,1532,2015,9,Dinas Sosial,Dinas Sosial,Dinas Sosial,22,1,,9,1,Kepala Dinas Sosial,1
+10,1545,2015,10,Dinas Tenaga kerja,Dinas Tenaga kerja,Disnaker,22,1,,10,1,Kepala Dinas Tenaga kerja,1
+11,1560,2015,11,Dinas Pemuda dan Olahraga,Dinas Pemuda dan Olahraga,Dispora,22,1,,11,1,Kepala Dinas Pemuda dan Olahraga,1
+12,1571,2015,12,"Dinas Pemberdayaan Perempuan dan Perlindungan Anak, Pengendalian Penduduk dan Keluarga Berencana","Dinas Pemberdayaan Perempuan dan Perlindungan Anak, Pengendalian Penduduk dan Keluarga Berencana",Dinas P3AP2KB,22,1,,12,1,"Kepala Dinas Pemberdayaan Perempuan dan Perlindungan Anak, Pengendalian Penduduk dan Keluarga Berencana",1
+13,1590,2015,13,"Dinas Pertanian, Pangan, dan Perikanan","Dinas Pertanian, Pangan, dan Perikanan",Dinas Perpari,22,1,,13,1,"Kepala Dinas Pertanian, Pangan, dan Perikanan",1
+14,1642,2015,14,Dinas Lingkungan Hidup,Dinas Lingkungan Hidup,Dinas LH,22,1,,14,1,Kepala Dinas Lingkungan Hidup,1
+15,1660,2015,15,Dinas Kependudukan dan Pencatatan Sipil,Dinas Kependudukan dan Pencatatan Sipil,Dinas Dukcapil,22,1,,15,1,Kepala Dinas Kependudukan dan Pencatatan Sipil,1
+16,1673,2015,16,Dinas Pemberdayaan Masyarakat dan Desa,Dinas Pemberdayaan Masyarakat dan Desa,Dinas PMD,22,1,,16,1,Kepala Dinas Pemberdayaan Masyarakat dan Desa,1
+17,1687,2015,17,Dinas Perhubungan,Dinas Perhubungan,Dishub,22,1,,17,1,Kepala Dinas Perhubungan,1
+18,1704,2017,18,Dinas Komunikasi dan Informatika,Dinas Komunikasi dan Informatika,Diskominfo,22,1,0,18,1,Kepala Dinas Komunikasi dan Informatika,1
+19,1722,2017,19,"Dinas Koperasi, Usaha Kecil dan Menengah","Dinas Koperasi, Usaha Kecil dan Menengah",Dinas KUKM,22,1,,19,1,"Kepala Dinas Koperasi, Usaha Kecil dan Menengah",1
+20,1734,2017,20,Dinas Penanaman Modal dan Pelayanan Perizinan Terpadu,Dinas Penanaman Modal dan Pelayanan Perizinan Terpadu,Dinas PMPPT,22,1,,20,1,Kepala Dinas Penanaman Modal dan Pelayanan Perizinan Terpadu,1
+21,1755,2017,21,Dinas Kebudayaan,Dinas Kebudayaan,Dinas Kebudayaan,22,1,,21,1,Kepala Dinas Kebudayaan,1
+22,1770,2017,22,Dinas Perpustakaan dan Kearsipan,Dinas Perpustakaan dan Kearsipan,Dinas Perpus & Arsip,22,1,,22,1,Kepala Dinas Perpustakaan dan Kearsipan,1
+23,1785,2017,23,Dinas Pariwisata,Dinas Pariwisata,Dinas Pariwisata,22,1,,23,1,Kepala Dinas Pariwisata,1
+24,1798,2017,24,Dinas Perindustrian dan Perdagangan,Dinas Perindustrian dan Perdagangan,Dinas Perindag,22,1,,24,1,Kepala Dinas Perindustrian dan Perdagangan,1
+25,1831,2017,25,"Badan Kepegawaian, Pendidikan dan Pelatihan","Badan Kepegawaian, Pendidikan dan Pelatihan",BKPP,22,1,,25,1,"Kepala Badan Kepegawaian, Pendidikan dan Pelatihan",1
+26,1849,2017,26,Badan Perencanaan Pembangunan Daerah,Badan Perencanaan Pembangunan Daerah,Bappeda,22,1,0,26,1,Kepala Badan Perencanaan Pembangunan Daerah,1
+27,1873,2020,27,Badan Keuangan dan Aset Daerah,Badan Keuangan dan Aset Daerah,BKAD,22,1,,27,1,Kepala Badan Keuangan dan Aset Daerah,1
+28,1905,2020,28,Badan Kesatuan Bangsa dan Politik,Badan Kesatuan Bangsa dan Politik,Badan Kesbangpol,22,1,,28,1,Kepala Badan Kesatuan Bangsa dan Politik,1
+29,1918,2020,29,Badan Penanggulangan Bencana Daerah,Badan Penanggulangan Bencana Daerah,BPBD,22,1,0,29,1,Kepala Pelaksana Badan Penanggulangan Bencana Daerah,1
+30,1932,2020,30,Kecamatan Gamping,Kecamatan Gamping,Kecamatan Gamping,31,1,0,30,1,Camat Gamping,1
+31,1941,2020,31,Kecamatan Godean,Kecamatan Godean,Kecamatan Godean,31,1,,31,1,Camat Godean,1
+32,1950,2020,32,Kecamatan Moyudan,Kecamatan Moyudan,Kecamatan Moyudan,31,1,,32,1,Camat Moyudan,1
+33,1959,2020,33,Kecamatan Minggir,Kecamatan Minggir,Kecamatan Minggir,31,1,,33,1,Camat Minggir,1
+34,1968,2020,34,Kecamatan Seyegan,Kecamatan Seyegan,Kecamatan Seyegan,31,1,,34,1,Camat Seyegan,1
+35,1977,2020,35,Kecamatan Mlati,Kecamatan Mlati,Kecamatan Mlati,31,1,,35,1,Camat Mlati,1
+36,1986,2020,36,Kecamatan Depok,Kecamatan Depok,Kecamatan Depok,31,1,,36,1,Camat Depok,1
+37,1995,2017,37,Kecamatan Berbah,Kecamatan Berbah,Kecamatan Berbah,31,1,,37,1,Camat Berbah,1
+38,2004,2017,38,Kecamatan Prambanan,Kecamatan Prambanan,Kecamatan Prambanan,31,1,,38,1,Camat Prambanan,1
+39,2013,2017,39,Kecamatan Kalasan,Kecamatan Kalasan,Kecamatan Kalasan,31,1,,39,1,Camat Kalasan,1
+40,2022,2017,40,Kecamatan Ngemplak,Kecamatan Ngemplak,Kecamatan Ngemplak,31,1,,40,1,Camat Ngemplak,1
+41,2031,2017,41,Kecamatan Ngaglik,Kecamatan Ngaglik,Kecamatan Ngaglik,31,1,,41,1,Camat Ngaglik,1
+42,2040,2017,42,Kecamatan Sleman,Kecamatan Sleman,Kecamatan Sleman,31,1,,42,1,Camat Sleman,1
+43,2049,2017,43,Kecamatan Tempel,Kecamatan Tempel,Kecamatan Tempel,31,1,,43,1,Camat Tempel,1
+44,2058,2017,44,Kecamatan Turi,Kecamatan Turi,Kecamatan Turi,31,1,,44,1,Camat Turi,1
+45,2067,2017,45,Kecamatan Pakem,Kecamatan Pakem,Kecamatan Pakem,31,1,,45,1,Camat Pakem,1
+46,2076,2017,46,Kecamatan Cangkringan,Kecamatan Cangkringan,Kecamatan Cangkringan,31,1,,46,1,Camat Cangkringan,1
+47,1398,2017,47,Rumah Sakit Umum Daerah Sleman,Rumah Sakit Umum Daerah Sleman,RSUD SLEMAN,22,1,,47,1,Direktur Rumah Sakit Umum Daerah Sleman,1
+48,1411,2017,48,Rumah Sakit Umum Daerah Prambanan,Rumah Sakit Umum Daerah Prambanan,RSUD Prambanan,32,1,0,48,1,Direktur Rumah Sakit Umum Daerah Prambanan,1
